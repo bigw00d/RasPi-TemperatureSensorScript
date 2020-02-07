@@ -5,7 +5,7 @@ Python script to get air condition(temperature, humidity) using Raspberry pi 3 a
 
 - [Raspberry Pi3 Model B](https://www.amazon.co.jp/gp/product/B01CHJRAMM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
     - Raspbian GNU/Linux 9.11 (stretch)
-
+    - Python 3.5.3 or Python 2.7.13
 - [HTU21D-F](https://www.switch-science.com/catalog/1799/)
 
 ## Install
